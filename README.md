@@ -31,5 +31,4 @@
 <code><img height="40" src="https://github.com/renanmzm/renanmzm/blob/master/kisspng-intellij-idea-integrated-development-environment-c-java-plum-5ad4c79b02dad6.2641825315238941710117.png"></code>
 <code><img height="40" src="https://github.com/renanmzm/renanmzm/blob/master/vscode.png"></code>
 <code><img height="40" src="https://github.com/renanmzm/renanmzm/blob/master/couchbase.png"></code>
-<code><img height="40" src="https://github.com/renanmzm/renanmzm/blob/master/mongo.png"></code>
 <code><img height="40" src="https://github.com/renanmzm/renanmzm/blob/master/pngwing.com.png"></code>
