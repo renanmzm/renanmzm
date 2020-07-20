@@ -1,8 +1,10 @@
-### Hey 👋🏽, I'm [Renan Mikaill!]
+### Hey 👋🏽, I'm Renan Mikaill!
+
+<a href="https://br.linkedin.com/in/renan-mikaill-mantovani-07244b49"><img align="left" alt="Renan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <br />
 
-Hi, I'm Renan Mikaill <a href="https://br.linkedin.com/in/renan-mikaill-mantovani-07244b49"><img align="left" alt="Renan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>, a Full Stack Developer 🚀 from Brazil, currently, I'm a Squad Leader working with logistics systems, supporting 8 applications, trying to apply the better of Scrum besides to tell horrible jokes.
+... a Full Stack Developer 🚀 from Brazil, currently, I'm a Squad Leader working with logistics systems, supporting 8 applications, trying to apply the better of Scrum besides to tell horrible jokes.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
